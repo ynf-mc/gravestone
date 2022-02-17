@@ -4,7 +4,7 @@
 
 这是一个使用 Fabric 编写的，仅需在服务端安装的墓碑 mod
 
-支持 minecraft 1.16.x
+支持 minecraft 1.16.5
 
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/gravestone
 
@@ -24,7 +24,7 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/gravestone
 
 墓碑中会保存玩家身上的物品，若是物品上有消失诅咒的附魔，则玩家死亡后带有该附魔的物品会消失
 
-玩家身上的经验值会除以 2 后放入墓碑中
+玩家身上的经验值会放入墓碑中
 
 在墓碑被破坏后墓碑中的物品和经验会掉落在地上
 

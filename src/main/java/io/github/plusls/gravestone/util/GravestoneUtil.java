@@ -37,7 +37,7 @@ public class GravestoneUtil {
         if (!world.getGameRules().getBoolean(GameRules.KEEP_INVENTORY)) {
             List<ItemStack> items = new ArrayList<>();
             // int xp = ((PlayerEntityInvoker) player).callGetCurrentExperience(null);
-            int xp = player.totalExperience / 2;
+            int xp = player.totalExperience;
 
             ((PlayerEntityInvoker) player).callVanishCursedItems();
             items.addAll(player.inventory.main);

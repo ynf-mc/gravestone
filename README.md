@@ -4,7 +4,7 @@
 
 A server side gravestone mod for fabric.
 
-Support minecraft 1.16.x.
+Support minecraft 1.16.5.
 
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/gravestone
 
@@ -25,7 +25,7 @@ The shape of gravestone:
 
 Player's items will be saved in the gravestone.Items with "Curse of Vanishing" will disappear after the player dies.
 
-The xp of player will be divided by 2 and placed in the tombstone.
+The xp of player will be placed in the tombstone.
 
 After the gravestone is broke, the items and xp in the gravestone will drop to the world.
 
