@@ -2,7 +2,6 @@ package io.github.plusls.gravestone;
 
 import com.mojang.authlib.GameProfile;
 import io.github.plusls.gravestone.util.GravestoneUtil;
-import jdk.nashorn.internal.ir.Block;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.CompoundTag;
